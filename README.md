@@ -1,1 +1,1 @@
-# algoeasy.github.io
+# algoeasy
